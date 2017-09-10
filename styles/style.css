@@ -5,3 +5,8 @@ body{
 input{
   font-size: 10px;
 }
+
+.strong{
+  font-size: 11px;
+  font-style: italic;
+}
